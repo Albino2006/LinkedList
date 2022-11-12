@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.Comparable\ getItem()
+comment1.params=
+comment1.target=ListenElementItf\ getNext()
+comment2.params=next
+comment2.target=void\ setNext(ListenElementItf)
+numComments=3
